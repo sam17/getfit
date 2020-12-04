@@ -22,6 +22,6 @@ Go to ```localhost:8000``` on Chrome to see the site (as opposed to 0.0.0.0:8000
 
 
 ## Demo
-[](https://imgur.com/a/Gi37bK6)
+[](./static/vivek-demo.gif)
 
 
