@@ -21,4 +21,7 @@ python -m http.server
 Go to ```localhost:8000``` on Chrome to see the site (as opposed to 0.0.0.0:8000) as camera on Chrome only runs on https or localhost. Then click on the debug card. That has eval running. 
 
 
+## Demo
+[](https://imgur.com/a/Gi37bK6)
+
 
