@@ -22,6 +22,5 @@ Go to ```localhost:8000``` on Chrome to see the site (as opposed to 0.0.0.0:8000
 
 
 ## Demo
-[](https://raw.githubusercontent.com/sam17/getfit/main/static/vivek-demo.gif)
-
+![Demo](https://raw.githubusercontent.com/sam17/getfit/main/static/vivek-demo.gif)
 
