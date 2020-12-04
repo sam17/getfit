@@ -1,0 +1,124 @@
+body{
+    font-family: 'Roboto Condensed';
+    background-color: #081a2b !important;
+}
+
+.jumbo{
+    font-size: 80px;
+    margin-bottom: 0px;
+    font-family: 'Righteous';
+    padding: 20px;
+    margin: 50px;
+}
+
+
+#videoElement{
+    display: none;
+
+}
+
+.image{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    height: 150px;
+    width: 300px;
+}
+
+.card{
+    width: 300px !important;
+}
+
+#main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#attribution{
+    font-size: 10px;
+    color: aliceblue;
+}
+
+.thumbnail{
+    width: 100px !important;
+}
+
+
+.line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+}
+  
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+    fill: #ffab00;
+}
+  
+  .focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+.side-by-side{
+    display: flex;
+    flex-direction: row;
+}
+
+.tick, .axis{
+    
+    color: #fff;
+}
+
+
+.buttons{
+    margin:10px;
+    padding:10px;
+}
+
+#output,#plot{
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+
+
+
+.output-button{
+    width: 600px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    flex-direction: column;
+}
+
+#part-buttons{
+    text-align: center;
+}
+#timer{
+    font-size: 60px;
+    margin: 20px;
+    color: #fff;
+    display: none;
+}
+
+
+#feedback-calibration{
+    color: #fff;
+}
+
+
+
+#post-calibrate{
+    display: none;
+}
